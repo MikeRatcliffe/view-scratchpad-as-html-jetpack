@@ -1,0 +1,11 @@
+{
+  "name": "view-scratchpad-as-html-jetpack",
+  "fullName": "View Scratchpad As HTML Jetpack",
+  "id": "view-scratchpad-as-html-jetpack@erikvold.com",
+  "author": "Erik Vold",
+  "license": "MPL 2.0",
+  "version": "0.1",
+  "dependencies": [
+    "menuitems"
+  ]
+}
